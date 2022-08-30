@@ -30,7 +30,7 @@ AWS global infra
 
 # AWS 서비스와 상호작용하는 방법
 
-### AWS Managemebt Console
+### AWS Management Console
 
 > Amazon 서비스 액세스 및 관리를 위한 웹 기반 인터페이스
 
@@ -55,7 +55,7 @@ AWS global infra
 
 > 사용자의 요구에 맞게 시스템 자원을 할당, 배치, 배포해 두었다가 필요 시 시스템을 즉시 사용할 수 있는 상태로 미리 준비해 두는 것을 말한다.
 
-# AWS Elastic Beanstalk
+### AWS Elastic Beanstalk
 
 > 사용자가 코드 및 구성 설정을 제공하면 Elastic Beanstalk이 다름 작음을 수행하는데 필요한 리소스를 배포한다.
 
@@ -64,7 +64,19 @@ AWS global infra
 3. 자동 조정
 4. 애플리케이션 상태 모니터링
 
-# 
+### AWS CloudFormation
+
+> 인프라를 코드로 취급할 수 있음
+
+> 코드 줄로 작성하여 환경 구축
+
+> 리소스를 안전하고 반복 가능한 방식으로 프로비저닝 하므로 수작업을 수행하거나 사용자 지정 스크립트를 작성할 필요없이 인프라 및 애플리케이션을 빈번히 구축할 수 있음
+
+
+
+
+
+
 
 
 
